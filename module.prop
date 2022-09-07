@@ -1,0 +1,6 @@
+id=RemoveStorageXML
+name=Remove StorageXML
+version=v1
+versionCode=1
+author=@gabrielmmf
+description=This module removes storage.xml for rebooting to recovery mode. Use it if you are having trouble while rebooting to recovery.
